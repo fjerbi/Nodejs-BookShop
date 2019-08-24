@@ -1,0 +1,18 @@
+.thumbnail img {
+  max-height: 125px;
+}
+
+.thumbnail .description {
+  color: black;
+}
+.price{
+  font-weight: bold;
+  font-size: 16px;
+}
+
+@media(min-width: 768px) {
+  .field-label-responsive {
+    padding-top: .5rem;
+    text-align: right;
+  }
+}
